@@ -1,5 +1,5 @@
 # Restaurant-Review-Project
-Using Natural Language Processing Algorithm to analyze restuarant review data for getting actionable insights. 
+Using Natural Language Processing Algorithm to analyze restaurant review data for getting actionable insights. 
 
 Data set Used: https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants
 
